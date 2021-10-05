@@ -1,2 +1,2 @@
-# My first site project
+# My second site project
 I try to use basic syntaxis to build my site with golang.
